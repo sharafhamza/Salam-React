@@ -1,1 +1,1 @@
-## It's actually Namaste React course I named it as a Salam React 
+## It's a Namaste React course I named it as Salam React 
